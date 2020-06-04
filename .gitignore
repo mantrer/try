@@ -3,6 +3,8 @@
 .DS_Store
 venv
 
+person.code-ws.code-workspace
+
 # Compiled Object files
 *.o
 *.obj
@@ -27,4 +29,5 @@ docs/
 
 # Code coverage
 *.lst
+
 
