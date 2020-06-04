@@ -1,3 +1,8 @@
+**/*.DS_Store
+**/.git
+.DS_Store
+venv
+
 # Compiled Object files
 *.o
 *.obj
@@ -22,3 +27,4 @@ docs/
 
 # Code coverage
 *.lst
+
